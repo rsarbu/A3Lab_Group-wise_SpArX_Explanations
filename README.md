@@ -21,6 +21,12 @@ Three publicly available datasets are included in the `data/` folder:
 | Pima Indians Diabetes | `diabetes.csv` | [Kaggle / UCI](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) |
 | Breast Cancer WDBC | `wdbc.data` | [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/17/breast+cancer+wisconsin+diagnostic) |
 
+### Dataset source clarification
+
+The diabetes dataset used in this project is the **Pima Indians Diabetes Database** from Kaggle’s UCI ML mirror. It contains 768 samples, 8 input features, and one binary `Outcome` column. This is the dataset used in the implementation, preprocessing pipeline, experiments, and reported results.
+
+This dataset should not be confused with the current UCI “Diabetes” dataset page, which refers to a different diabetes dataset. The experiments, results, tables, and conclusions in this repository are based on the Kaggle Pima Indians Diabetes Database.
+
 ## Repository Structure
 
 ```text
