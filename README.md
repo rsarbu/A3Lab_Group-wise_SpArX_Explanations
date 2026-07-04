@@ -123,7 +123,7 @@ The notebooks must be run in order because Phase 2 and Phase 3 depend on artifac
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rsarbu/SpArX-healthcare-explainability.git
+   git clone https://github.com/rsarbu/A3Lab_Group-wise_SpArX_Explanations.git
    cd SpArX-healthcare-explainability
    ```
 
